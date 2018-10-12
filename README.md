@@ -13,4 +13,4 @@
 
 5) Run the project
 	Default username = abc
-	Defaulr password = 123
+	Default password = 123
