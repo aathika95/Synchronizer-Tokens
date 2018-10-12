@@ -7,9 +7,9 @@
 3) Start the apache server 
 	command : service apache2 start
 
-4)Go to the web browser and type localhost:html
+4) Go to the web browser and type localhost:html
 
-then the projects would be displayed in the browser itself.
+   Then the projects would be displayed in the browser itself.
 
 5) Run the project
 	Default username = abc
